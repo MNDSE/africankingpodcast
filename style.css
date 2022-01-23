@@ -14,6 +14,7 @@ body{
     background-position: center;
     background-size: cover;
     height: 100vh;
+    margin: 0;
 }
 .bilboard h1{
     font-size:5em;
@@ -80,10 +81,9 @@ transform: scale(0.95);
     text-decoration: none;
 }
 
-/*====================== main1 section =====================*/
+/*====================== Cards section =====================*/
 
-.main1{
-    margin-top: 10em;
+.cards{
     background-color: orange;
 }
 
@@ -94,18 +94,9 @@ transform: scale(0.95);
     width: 30%;
 }
 
-.main1h2{
-    font-size: 4em;
+.bold{
+    font-size: 3.5em;
     font-weight: bold;
-    padding-top: 1em;
-    color: black;
-    }
-.main2h2{
-    font-size: 4em;
-    font-weight: bold;
-    padding-top: 1em;
-    color: orange;
-
 }
 .main2{
     background-color: black;
