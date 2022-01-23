@@ -86,44 +86,30 @@ transform: scale(0.95);
 .cards{
     background-color: orange;
 }
-
-.img1{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 30%;
-}
-
 .bold{
     font-size: 3.5em;
     font-weight: bold;
 }
-.main2{
-    background-color: black;
 
+/*======================= Mission section ==============================*/
+.text-orange{
+    color: orange;
 }
 .figurepara1{
-
-    float: none;
-    font-size: 25px;
-    text-align: center;
-    color: rgb(219, 219, 212);
-    padding-top: 2em;
-    margin-right: 6em;
+    font-size: 1.5em;
     font-family:Atkinson Hyperlegible ;
-
+    color: white;
+    line-height: 2em;
+    margin-top: 0;
 }
-
+.img-float img{
+    float: right;
+}
 .figurepara2{
-    color: rgb(219, 219, 212);
-    font-size: 25px;
-    text-align: center;
-    justify-content: right;
-    padding-top: 2em;
-    margin-left: 3em;
+    font-size: 1.5em;
+    color: white;
     font-family:Atkinson Hyperlegible ;
-    line-height: 3em;
-    line-break: auto;
+    line-height: 2em;
 }
 .footerall{
     background-color: whitesmoke;
